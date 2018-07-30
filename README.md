@@ -41,7 +41,7 @@ $ ./benchmark 100000 protobuf cereal
 
 #### Results
 
-Following results were obtained running 1000000 serialize-deserialize operations 50 times and then averaging results
+Following results were obtained running 100000 serialize-deserialize operations 50 times and then averaging results
 on a typical desktop computer with Intel Core i5 processor running Ubuntu 14.04. Exact versions of libraries used are:
 
 * thrift 0.10.0
